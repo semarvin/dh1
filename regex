@@ -1,0 +1,6 @@
+Regex Exercises
+
+to find all the words with “at” in them: /a[(^t$)]/gi
+to find all the words that end in “s”: /[s$]\s/gim --OR-- /[s]\b/gim
+to find all the consecutive vowels: /(ai)|(ae)|(ao)|(au)|(aa)|(ea)|(ei)|(ee)|(eo)|(eu)|(ia)|(ie)|(io)|(ii)|(iu)|(oa)|(oe)|(oi)|(oo)|(ou)|(ua)|(ue)|(ui)|(uo)|(uu)/gim --OR-- /\b\w*[aeiou]{2}\w*\b/gim [locates whole words]
+to find all the words with two t's in them: 
