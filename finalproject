@@ -104,4 +104,4 @@ The following objects are masked from ‘package:base’:
 7     7 Sincerely,                                                                        
 8     8 The Narrator 
 
-From there, I decided to import the rest of my data this way.
+From here, I switched from GitHub to an R Markdown notebook.
