@@ -1,3 +1,3 @@
 # QUACKMIRE
 ## Welcome
-*wazzup*
+*Hello, World!*
